@@ -1,0 +1,294 @@
+﻿LOgo 
+height: 34.20289993286133px;
+width: 192.0166473388672px;
+left: 186.671875px;
+top: 13.32421875px;
+border-radius: 0px;
+background: #343A40;
+=======================================
+Наши возможности
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================
+Что вы получаете
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===============================================
+Партнеры
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+=====================================================
+Робот-помощник
+font-family: Rubik;
+font-size: 22px;
+font-style: normal;
+font-weight: 300;
+line-height: 26px;
+letter-spacing: 0.02em;
+text-align: left;
+background: #343A40;
+background: #343A40;
+================================================
+Proton Trade
+//styleName: Title 74;
+font-family: Rubik;
+font-size: 74px;
+font-style: normal;
+font-weight: 700;
+line-height: 88px;
+letter-spacing: 0.03em;
+text-align: left;
+background: #343A40;
+============================================
+Облегчает торговлю на крипторынке
+font-family: Rubik;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+background: #343A40;
+===============================================
+Попробовать
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #FFFFFF;
+====================================================
+Уже используют: 589 человек
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+==================================================
+8 474
+>$1.5T
+>$214Bn
+61,1%
+font-family: Poppins;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===============================================
+Криптовалюты
+Капитализация рынка
+Объем за 24ч
+BTC Dominance
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+========================================================
+Наши возможности
+//styleName: Title 2 (42);
+font-family: Rubik;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================================
+Покажем тренды
+Как использовать
+Stop lose & Take Profit
+Как использовать
+Волатильность
+
+Ближайшие уровни
+
+Актуальная информация
+
+Как использовать
+
+
+============================================
+Робот-помощник анализирует актив и дает рекомендации по направлению торговли на нескольких таймфреймах: H1, М30 и М15
+
+Не рекомендовано торговать в шорт если бот рекомендует торговать в лонг на всех таймфреймах.
+
+Робот-помощник анализирует волатильность актива за несколько дней, рассчитывает размер Stop lose и многоуровневый Take profit для возможности максимизации прибыль и минимизации убытков.
+
+Получив рассчитанные Stop lose и Take profit вам остается выставить ордера.
+
+Робот-помощник анализирует актив и показывает волатильность в процентах и пунктах.
+
+Чем больше/меньше волатильность, тем больше/меньше должны быть стоп-лос и тейк-профиты.
+
+Робот-помощник анализирует актив и показывает два ближайших ценовых уровня в рамках 500 свечей
+
+Необходимо нанести на график уровни показанные ботом. На этих ценовых уровнях скапливается большая ликвидность. От этих ценовых уровнях будут сильные движения.
+
+Отображает цену актива в долларах и биткойнах.
+
+Помогает следить за ценой выбранного актива. если вы не за компьютером.
+
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+============================================
+Что вы получаете
+//styleName: Title 2 (42);
+font-family: Rubik;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+=============================================
+Увеличится % положительных сделок
+
+Понятный риск-менеджмент
+
+Уменьшение количества убыточных сделок
+//styleName: Subtitle 24;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================
+При следовании рекомендациям робота-помощника все ваши сделки будут по тренду, что увеличит % положительных сделок.
+
+
+Всегда правильные стоп-лос и тейк-профит, расчитаный на основании волатильности инструмента, а не мифические и не понятные 5%, 20%, 30% неизвестно от чего.
+
+
+За счет автоматического поиска уровней, вы сможете сократить число не системных сделок совершая сделки от ценовых уровней.
+
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================
+Партнеры
+//styleName: Title 2 (42);
+font-family: Rubik;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================
+Биржи с которыми мы сотрудничаем
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+=============================================
+Для связи с нами
+//styleName: Title 2 (42);
+font-family: Rubik;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===========================================
+Можете задать нам любой вопрос про бота
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #343A40;
+===============================================
+Отправить вопрос
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #FFFFFF;
+===========================================
+Нажимая на кнопку «Отправить вопрос», вы даете согласие на обработку персональных данных.
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #808080;
+======================================
+Пользовательское соглашение
+
+© 2020 - 2021. Proton Trade. All rights reserved
+
+info@proton-trade.ru
+//styleName: Regular 16;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+background: #FFFFFF;

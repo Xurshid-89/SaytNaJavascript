@@ -1,0 +1,267 @@
+/*=======================HEADER ADAP======================================*/
+@media (max-width: 767px) {
+	.logo__text {
+		display: none;
+	}
+}
+
+/*=====================PROTON ADAP========================================*/
+@media (max-width: 767px) {
+	.proton {
+		padding: 130px 0px 200px 0px;
+	}
+	.proton__link {
+		flex-wrap: wrap;
+	}
+}
+@media (max-width: 500px) {
+	.proton__link img {
+		display: none;
+	}
+	.proton__body>*:not(:last-child){
+		margin: 0px 0px 10px 0px;
+	}
+	.proton__title {
+		font-size: 64px;
+	}
+	.proton__link {
+		padding: 30px 0px 0px 0px;
+	}
+
+}
+@media (max-width: 452px) {
+	.proton__link p {
+		display: none;
+	}
+}
+
+@media (max-width: 440px) {
+	.proton__title {
+		font-size: 46px;
+		line-height: 48px;
+	}
+	.proton__text {
+		font-size: 20px;
+		font-weight: 400;
+	}
+	.proton {
+		padding: 100px 0px 160px 0px;
+	}
+}
+
+/*==========================SERVISE ADAP===================================*/
+@media (max-width: 880px) {
+	.servise__body {
+		flex-wrap: wrap;
+	}
+	.service__column {
+		flex: 0 1 50%;
+		margin: 0px 0px 10px 0px;
+	}
+}
+@media (max-width: 500px) {
+	.service__column {
+		flex: 0 1 100%;
+	}
+}
+/*====================NASH ADAP=========================================*/
+@media (max-width: 1010px) {
+	.nash {
+		padding: 80px 0px 40px 0px;
+		margin: 20px 0px 0px 0px;
+	}
+	.nash__column {
+		flex: 0 1 50%;
+	}
+}
+@media (max-width: 767px) {
+	.nash {
+		margin: 0px 0px 0px 0px;
+		padding: 60px 0px 40px 0px;
+	}
+	.nash__column {
+		flex: 0 1 100%;
+		margin: 0px 0px 85px 0px;
+	}
+}
+@media (max-width: 500px) {
+	.nash__logo {
+		display: none;
+	}
+	.nash__column {
+		margin: 0px 0px 15px 0px;
+	}
+}
+/*=========================CHTO ADAP====================================*/
+@media (max-width: 750px) {
+	.chto {
+		padding: 20px 5px;
+	}
+	.chto__wrap {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.chto__column {
+	flex: 0 1 100%;
+	}
+	.chto__content {
+		max-width: 100%;
+		text-align: center;
+	}
+	.wrap2 {
+		flex-direction: column-reverse;
+	}
+}
+/*===========================REKLAMA ADAP==================================*/
+@media (max-width: 1100px) {
+	.katta__tel__1 {
+		right: 70px;
+	}
+	.katta__tel__2 {
+		right: -140px;
+	}
+}
+@media (max-width: 992px) {
+	.reklama__body {
+		height: 300px;
+	}
+	.reklama__bg {
+		height: 300px;
+	}
+	.katta__tel__1 {
+		top: -135px;
+		right: -130px;
+	}
+	.katta__tel__2 {
+		display: none;
+	}
+}
+@media (max-width: 820px) {
+	.reklama {
+		padding: 30px 0px;
+	}
+	.reklama__body {
+		height: 250px;
+	}
+	.reklama__bg {
+		height: 250px;
+	}
+	.katta__tel__1 {
+		display: none;
+	}
+}
+@media (max-width: 520px) {
+	.reklama {
+		padding: 20px 0px;
+	}
+	.reklama__body {
+		height: 210px;
+	}
+	.reklama__bg {
+		height: 210px;
+	}
+	.reklama__title {
+		font-size: 54px;
+		line-height: 58px;
+	}
+}
+@media (max-width: 390px) {
+	.reklama__body {
+		height: 200px;
+	}
+	.reklama__bg {
+		height: 200px;
+	}
+	.reklama__title {
+		font-size: 44px;
+		line-height: 48px;
+	}
+	.reklama__text {
+		font-size: 20px;
+	}
+}
+/*========================PARTNER ADAP=====================================*/
+@media (max-width: 940px) {
+	.img__5 {
+		top: -20px;
+	}
+}
+@media (max-width: 820px) {
+	.partner {
+		padding: 5px;
+	}
+}
+@media (max-width: 767px) {
+	.partner__wrap {
+		flex-wrap: wrap;
+	}
+	.img__5 {
+		top: -30px;
+	}
+	.partner__content {
+		flex: 0 0 100%;
+}
+.partner__title {
+		line-height: 35px;
+	}
+}
+@media (max-width: 700px) {
+	.partner__img {
+		flex: 0 1 50%;
+	}
+}
+@media (max-width: 480px) {
+	.partner__img {
+		flex: 0 1 100%;
+	}
+}
+/*==================SVYAZ ADAP===========================================*/
+@media (max-width: 800px) {
+	.svyaz {
+		padding: 45px 0px;
+	}
+	.svyaz__wrap {
+		flex-wrap: wrap;
+	}
+.svyaz__content {
+		flex: 0 0 100%;
+		margin: 0px 0px 20px 0px;
+	}
+	.svyaz__title {
+		line-height: 42px;
+	}
+}
+@media (max-width: 600px) {
+	.svyaz {
+		padding: 25px 0px;
+	}
+	.imya {
+		flex: 1 1 100%;
+		margin: 0px 0px 20px 0px;
+	}
+	.email {
+		flex: 1 1 100%;
+	}
+}
+/*=======================FOOTER ADAP======================================*/
+@media (max-width: 800px) {
+	.footer__container {
+		flex-wrap: wrap;
+		justify-content: center;
+		padding: 15px 10px;
+	}
+	.footer__text {
+	flex: 0 1 100%;
+	text-align: center;
+	margin: 0px 0px 20px 0px;
+}
+.footer__data {
+	flex: 0 1 100%;
+	text-align: center;
+	margin: 0px 0px 20px 0px;
+}
+.footer__mail {
+	flex: 0 1 100%;
+	text-align: center;
+}
+}
